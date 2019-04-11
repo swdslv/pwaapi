@@ -1,0 +1,24 @@
+{
+"products":[
+{"id":1,"name":"Drongo, fork-tailed","category":"Maroon"},
+{"id":2,"name":"Salmon pink bird eater tarantula","category":"Green"},
+{"id":3,"name":"Ornate rock dragon","category":"Blue"},
+{"id":4,"name":"Black-tailed prairie dog","category":"Yellow"},
+{"id":5,"name":"Badger, american","category":"Fuscia"},
+{"id":6,"name":"Arboral spiny rat","category":"Crimson"},
+{"id":7,"name":"Macaw, blue and gold","category":"Crimson"},
+{"id":8,"name":"Bird, secretary","category":"Orange"},
+{"id":9,"name":"Gecko (unidentified)","category":"Red"},
+{"id":10,"name":"Campo flicker","category":"Khaki"},
+{"id":11,"name":"Collared peccary","category":"Green"},
+{"id":12,"name":"Crested barbet","category":"Maroon"},
+{"id":13,"name":"Agile wallaby","category":"Khaki"},
+{"id":14,"name":"Red-breasted nuthatch","category":"Blue"},
+{"id":15,"name":"Eastern indigo snake","category":"Fuscia"},
+{"id":16,"name":"Fowl, helmeted guinea","category":"Crimson"},
+{"id":17,"name":"Miner's cat","category":"Yellow"},
+{"id":18,"name":"Magistrate black colobus","category":"Crimson"},
+{"id":19,"name":"White-headed vulture","category":"Red"},
+{"id":20,"name":"White-cheeked pintail","category":"Crimson"}
+]
+}
